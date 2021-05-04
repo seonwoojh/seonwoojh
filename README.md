@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonwoojh&count_bg=%23FFE200&title_bg=%23333333&icon=skyliner.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 **seonwoojh/seonwoojh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonwoojh&count_bg=%23FFE200&title_bg=%23333333&icon=skyliner.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+### Hi there 👋
 
+- 🔭 I’m currently major in statistics
+- 🌱 I’m currently learning Data Science from South Korea
 
 
 
