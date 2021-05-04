@@ -15,10 +15,18 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-- 🔭 I’m currently major in statistics
-- 🌱 I’m currently learning Data Science from South Korea
+* I’m currently major in statistics
+* I’m currently learning Data Science from South Korea
 
 
+
+
+### Interest of Machine Learning Algorithm
+* Linear Regression
+* Logistic Regression
+* Classification And Regression Tree, CART
+* Random Forest
+* Kmeans Clustering
 
 
 
@@ -35,3 +43,9 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonwoojh)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swjh9523@gmail.com)](mailto:swjh9523@gmail.com)
