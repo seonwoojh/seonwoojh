@@ -19,16 +19,6 @@ Here are some ideas to get you started:
 * I’m currently learning Data Science from South Korea
 
 
-
-
-### Interest of Machine Learning Algorithm
-* Linear Regression
-* Logistic Regression
-* Classification And Regression Tree, CART
-* Random Forest
-* Kmeans Clustering
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonwoojh)](https://github.com/anuraghazra/github-readme-stats)
 
 
