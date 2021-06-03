@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frstudio.github.io%2Frstudio-shields%2Fcategory.json"/></a>
-
+https://img.shields.io/badge/R-0067A3?style=flat-square&logo=#276DC3&logoColor=white&link
