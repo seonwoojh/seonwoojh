@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonwoojh)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/?style=flat-square&logo=R&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/R-11B48A?style=flat-square&logo=R&logoColor=white"/></a>
