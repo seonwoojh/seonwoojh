@@ -21,5 +21,11 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonwoojh)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+### Tech Stack 🌱
+
+---
+
 <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-black?style=flat-square&logo=R&logoColor=white"/></a>
