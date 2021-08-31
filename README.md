@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- # Tech Stack -->
 
-### 공부중 🌱
+### Tech Stack 🌱
 
 ---
 
