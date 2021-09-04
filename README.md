@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-black?style=flat-square&logo=R&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MySQL&logoColor=white"/></a>
