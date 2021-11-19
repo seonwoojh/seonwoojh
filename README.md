@@ -26,9 +26,14 @@ Here are some ideas to get you started:
 ### 열공하자! 🌱
 
 ---
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/Java-navy?style=flat-square&logo=Java&logoColor=white"/></a>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MySQL&logoColor=white"/></a>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <img src="https://img.shields.io/badge/Linux-red?style=flat-square&logo=Linux&logoColor=white"/></a>
