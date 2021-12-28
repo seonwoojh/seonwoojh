@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there! 👋
+### Hi there!! 👋
 
 * I’m currently major in statistics
 * I’m currently learning Data Engineering from South Korea
