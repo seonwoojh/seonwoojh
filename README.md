@@ -8,11 +8,8 @@
   **정보통계학을 전공했고 클라우드 기반 데이터 플랫폼 엔지니어를 준비 중입니다.**
   <br>
   **IaC, Container Orchestration, ETL 파이프라인 개발 및 운영에 관심이 많습니다.**
-
   
-  <br>
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonwoojh&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonwoojh&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <br>
