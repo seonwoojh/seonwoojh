@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonwoojh&count_bg=%23FFE200&title_bg=%23333333&icon=skyliner.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-  <div align=center><h1> Hi there!!! 👋</h1></div>
+  <div align=center><h1>👋 Hi there!!!</h1></div>
 
 <div align=center>
   I’m currently major in statistics 
