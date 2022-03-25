@@ -1,16 +1,15 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonwoojh&count_bg=%23FFE200&title_bg=%23333333&icon=skyliner.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-  <div align=center><h1>👋 Hi there!!!</h1></div>
-
+  <div align=center><h1>👋 Hi there!!</h1></div>
+<br>
 <div align=center>
-  I’m currently major in statistics 
+  
+  **정보통계학을 전공하였고 클라우드 기반 데이터 플랫폼 엔지니어를 준비중입니다!!**
   <br>
-  I’m currently learning Data Engineering from South Korea
-  <br>
+  **IaC, Container Orchestration, ETL 파이프라인 개발 및 운영에 관심이 많습니다.**
 
   
-<br>
   <br>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonwoojh&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
