@@ -25,14 +25,15 @@
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
+  <img src="https://img.shields.io/badge/Elastic Stack-005571?style=for-the-badge&logo=Elastic Stack&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apache Kafka&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Elastic Stack-005571?style=for-the-badge&logo=Elastic Stack&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apache Kafka&logoColor=white">
-  <br>
+
 
   
   
