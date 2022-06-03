@@ -17,7 +17,7 @@
 
 <div align=center><h1>📚 열공하자!!</h1></div>
 
-<div align=center> 
+<!-- <div align=center> 
   
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
@@ -40,5 +40,5 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white">
   <br>
-  
+   -->
   
