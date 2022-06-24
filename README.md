@@ -15,7 +15,7 @@
 <br>
 <br>
 
-<div align=center><h1>📚 열공하자!!</h1></div>
+<div align=center><h1>📚 열공하자!!! </h1></div>
 
 <div align=center> 
   
